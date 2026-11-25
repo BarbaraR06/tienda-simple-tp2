@@ -1,0 +1,14 @@
+# Dependencies and generated build files
+node_modules/
+frontend/.next/
+frontend/out/
+frontend/.vercel/
+backend/node_modules/
+
+# Local environment files
+frontend/.env.local
+frontend/.env.*.local
+backend/.env
+
+# System files
+.DS_Store
